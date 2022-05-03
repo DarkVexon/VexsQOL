@@ -13,7 +13,7 @@ import java.nio.charset.StandardCharsets;
 @SpireInitializer
 public class LaunchPad implements PostInitializeSubscriber {
 
-    public static final String modID = "launchpad"; //TODO: Change this.
+    public static final String modID = "vexsqol"; //TODO: Change this.
 
     public static String makeID(String idText) {
         return modID + ":" + idText;
